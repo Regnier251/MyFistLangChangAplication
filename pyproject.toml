@@ -1,10 +1,10 @@
 [project]
-name = "langchain-course"
+name = "langchain-project"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 authors = [
-    { name = "Juan Jose", email = "soporte1@rushtecnologias.com" }
+    { name = "Regnier251", email = "" }
 ]
 requires-python = ">=3.11"
 dependencies = [
